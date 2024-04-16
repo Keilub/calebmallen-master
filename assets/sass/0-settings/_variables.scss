@@ -1,0 +1,36 @@
+// *****************
+// Global Variables
+// *****************
+
+// Spaces
+$base-spacing-unit: 16px;
+
+// Border radius
+$global-radius: 3px;
+
+// Transition
+$global-transition: all .1s;
+
+
+// *****************
+// Typography
+// *****************
+$base-font-size: 16px;
+$base-font-style: normal;
+$base-font-variant: normal;
+$base-font-weight: 500;
+$base-font-family: "Triplicate", Helvetica Neue, Helvetica, Arial, sans-serif;
+$base-line-height: 1.5;
+
+// Headings
+$heading-font-family: "Heliotrope", Helvetica Neue, Helvetica, Arial, sans-serif;
+
+$font-size-h1:  40px;
+$font-size-h2:  32px;
+$font-size-h3:  32px;
+$font-size-h4:  28px;
+$font-size-h5:  25px;
+$font-size-h6:  16px;
+
+$heading-line-height: 1.2;
+$heading-letter-spacing: normal;
