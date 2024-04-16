@@ -5,12 +5,13 @@
   color: var(--text-color);
 
   a {
-    text-decoration: none;
     color: #262626;
+    border-bottom: 1px solid (#2626262d);
 
     &:hover {
       text-decoration: none;
       color: var(--link-color);
+      border-bottom: 1px solid (#26262692);
     }
   }
 
