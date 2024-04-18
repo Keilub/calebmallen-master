@@ -6,7 +6,7 @@ image: /images/wanderway39.jpg
 tags: [weekly picture]
 ---
 
-## The Skunk
+## The Skunk 
 
 *by Mac Barnett, art by Patrick McDonnell*
 
