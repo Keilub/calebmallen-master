@@ -53,6 +53,24 @@ Every time I’ve read Alice’s Adventures in Wonderland, I have found myself e
 
 <a href="https://en.wikipedia.org/wiki/Literary_nonsense" >wikipedia: literary nonsense</a>
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/487px-Jabberwocky_creatures.jpg" loading="lazy" alt="Project">
+    <img src="/images/Alice_05a-1116x1492.jpg" loading="lazy" alt="Project">
+    <img src="/images/John_Tenniel_-_Punch_-_Ripper_cartoon.png" loading="lazy" alt="Project">
+  </div>
+  <em>Source: <a href="https://www.newworldencyclopedia.org/entry/John_Tenniel">New World Encyclopedia</a> </em>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/1.7.jpg" loading="lazy" alt="Project">
+    <img src="/images/3.1.jpg" loading="lazy" alt="Project">
+    <img src="/images/4.1.jpg" loading="lazy" alt="Project">
+  </div>
+  <em>Source: <a href="https://www.victorianweb.org/art/illustration/tenniel/lookingglass/gallery4.html">The Victorian Web</a> </em>
+</div>
+
 ## More Articles
 
 <a href="https://medium.com/@thepsy.of.everything/analyzing-the-psychological-aspects-of-alice-in-wonderland-837cb643b048" >medium: analyzing the psychological aspects of alice in wonderland</a>
