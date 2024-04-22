@@ -55,6 +55,7 @@
 .article__title {
   margin-bottom: 12px;
   font-size: 26px;
+  text-align: center;
   a {
     &:hover {
       color: var(--heading-font-color);
@@ -66,4 +67,5 @@
   margin-bottom: 0;
   font-size: 18px;
   color: #8a8a8a;
+  text-align: center;
 }
