@@ -6,13 +6,13 @@ image: /images/wanderway40.jpg
 tags: [weekly picture]
 ---
 
-## What is Love? ★
+## What is Love?
 
 *By Mac Barnett, illustrated by Carson Ellis*
 
 Published 2021. Carson Ellis is easily one of my favorite artists working today. Her work is stunning. It shines in this book. Do yourself a favor and pick up this book just for the artwork. As you look at the art, enjoy one of Mac Barnett's most thought-provoking and touching stories. This book gives me vibes of Wolf Erlbruch books, another writer/illustrator you must check out! <h style="color:#5ABB71;">★</h>
 
-Also check out this amazing episode of <a href="https://www.creativepeptalk.com/355-the-creative-power-of-make-belief-and-how-your-art-can-make-others-feel-less-alone-with-carson-ellis-and-mac-barnett/"><u>Creative Pep Talk</u></a> where Mac and Carson discuss this book. 
+Also check out this amazing episode of <a href="https://www.creativepeptalk.com/355-the-creative-power-of-make-belief-and-how-your-art-can-make-others-feel-less-alone-with-carson-ellis-and-mac-barnett/">creative pep talk</a> where Mac and Carson discuss this book. 
 
 ## What John Marco Saw
 
