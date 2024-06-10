@@ -1,7 +1,7 @@
 ---
 title: sloth on a journey | 47
 description: A wordless trilogy that will take the words from you!
-date:   2024-06-04 13:00:00 +0300
+date:   2024-06-11 13:00:00 +0300
 image: /images/wanderway47.jpg
 tags: [weekly picture]
 ---
