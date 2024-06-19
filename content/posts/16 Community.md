@@ -10,7 +10,7 @@ tags: [weekly picture]
 
 *written by Diane Arnold and illustrated by Matthew Cordell*
 
-Published 2015. I am familiar with Matthew Cordell's illustrations and a huge fan; I love his work and always look forward to anything he creates. This book does not disappoint! The story pairs so well with the illustrations, and the simplicity of the text of just using two words works so well for the message and theme of the book. There is lovely energy and character just oozing from this book that comes together with a warming message. Great book, do yourself a favor and check it out! <h style="color:#5ABB71;">★</h>
+Published 2015. I am familiar with Matthew Cordell's illustrations and a huge fan; I love his work and always look forward to anything he creates. This book does not disappoint! The story pairs so well with the illustrations, and the simplicity of the text of just using two words works so well for the message and theme of the book. There is lovely energy and character just oozing from this book that comes together with a warming message. Great book, do yourself a favor and check it out! <h style="color:#E7A526;">★</h>
 
 ## May I Come In?
 
@@ -28,7 +28,7 @@ Published 2016. Great and unique artwork. The story is well done with lots of ve
 
 *by Monica Arnaldo*
 
-Published 2021. Fantastic illustrations that pair well with the text. I loved the message and silliness of the story, and it developed well to the end. I'm curious what this book would read with a bit less narration and more showing or dialogue to get its story across. Overall the book is creative, and I think both children and adults will love the story and message of this book. <h style="color:#5ABB71;">★</h>
+Published 2021. Fantastic illustrations that pair well with the text. I loved the message and silliness of the story, and it developed well to the end. I'm curious what this book would read with a bit less narration and more showing or dialogue to get its story across. Overall the book is creative, and I think both children and adults will love the story and message of this book. <h style="color:#E7A526;">★</h>
 
 ## Pizza
 

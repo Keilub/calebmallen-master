@@ -13,7 +13,7 @@ permalink: /about/
 </picture>
 <br>
 
-<h2 style="color: #5ABB71;">Hey! It's me, Caleb</h2>
+<h2 style="color: #E7A526;">Hey! It's me, Caleb</h2>
 
 <h5>(In A Hurry)</h5>
 I'm a storyteller and illustrator who creates picture books that resonate with children and adults. <br>

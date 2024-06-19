@@ -22,7 +22,7 @@ Published 2020. The artwork is incredible. I love the variations in compositions
 
 *by Mac Barnett, pictures by Greg Pizzoli*
 
-Published 2017. I was a fan of Pizzoli's work before this book, and even more so now with these incredible illustrations. The story is very fun and nonsensical and the book gives an extreme Edward Lear vibe. <h style="color:#5ABB71;">★</h>
+Published 2017. I was a fan of Pizzoli's work before this book, and even more so now with these incredible illustrations. The story is very fun and nonsensical and the book gives an extreme Edward Lear vibe. <h style="color:#E7A526;">★</h>
 
 ## The Marshmallow Incident
 
@@ -34,7 +34,7 @@ Published 2009. More fantastic artwork from Ron Barrett. The illustrations pack 
 
 *by Judi Barret, art by John Nickle*
 
-Published 2008. Lovely and funny artwork. This book pushes the box with the expression 'Show Don't Tell'. The words tell the reader to NOT do something. The illustrations show us why. Sometimes it works, and sometimes it's questionable. But I love the respect of the viewer. It lets us decipher the why and dive deeper into the text of why not to do something. It is a very fun and silly book. <h style="color:#5ABB71;">★</h>
+Published 2008. Lovely and funny artwork. This book pushes the box with the expression 'Show Don't Tell'. The words tell the reader to NOT do something. The illustrations show us why. Sometimes it works, and sometimes it's questionable. But I love the respect of the viewer. It lets us decipher the why and dive deeper into the text of why not to do something. It is a very fun and silly book. <h style="color:#E7A526;">★</h>
 
 ***
 

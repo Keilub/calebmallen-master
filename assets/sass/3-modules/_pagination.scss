@@ -47,7 +47,7 @@
 .pagination__count {
   margin: 0 32px;
   font-size: 16px;
-  color: var(--text-alt-color);
+  color: #262626;
 
   @media only screen and (max-width: $desktop) {
     margin: 0 16px;
@@ -61,7 +61,7 @@
 .pagination__next,
 .pagination__prev {
   &:hover {
-    color: #5ABB71;
+    color: #E7A526;
   }
 
   i {
@@ -71,7 +71,7 @@
   }
 
   &.disabled {
-    opacity: 0.6;
+    opacity: 0.25;
     cursor: not-allowed;
     color: inherit;
     

@@ -22,7 +22,7 @@ Published 2015. I liked the art style and colors used, and it was bright and eng
 
 *written by Jim Averbeck and illustrated by Amy Hevron*
 
-Published 2018. The story balances the art and text well, and I loved how the artwork enhanced this story. The message and text are also genuine and done with great skill. The story is thought-provoking and sweet; overall a very unique tale that you should read! <h style="color:#5ABB71;">★</h>
+Published 2018. The story balances the art and text well, and I loved how the artwork enhanced this story. The message and text are also genuine and done with great skill. The story is thought-provoking and sweet; overall a very unique tale that you should read! <h style="color:#E7A526;">★</h>
 
 ## Rescue Squad No.9
 

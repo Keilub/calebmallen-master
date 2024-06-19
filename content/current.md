@@ -13,7 +13,7 @@ permalink: /current/
 </picture>
 <br>
 
-<h5 style="color: #5ABB71;">For Curious People Only!</h5>
+<h5 style="color: #E7A526;">For Curious People Only!</h5>
 
 Ah hello! Looks like you were curious and wandering my website. I’d love to share more about me that isn’t art. I was in math club and always had a big interest in science. Unfortunately, those two subjects weren’t taught at the art school I went to. But art history swiftly filled the void. When I need a break from my studio practice, I love traveling with my wife and camping. We go to small, unmarked sites, state parks, and my favorite national parks. You must visit the Indiana Dunes, a hidden gem! I also really love caves and climbing and being out in nature wherever it takes me. When I need a night in, I am spending it playing board games with friends and family. I also get crushed in Guitar Hero.
 

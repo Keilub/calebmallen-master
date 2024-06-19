@@ -10,7 +10,7 @@ tags: [weekly picture]
 
 *by Tedd Arnold*
 
-Published 1995. Maybe it is nostalgia talking, but I love this style and look of art. The illustrations are oozing with character and emotion. A simple retelling of the classic, 'Monkey's Jumping on the Bed.' Most of my enjoyment is from the story's fun visuals, and that's enough for me. This telling doesn't have much of a message, but there's enough for me to continue reading and looking at this book. <h style="color:#5ABB71;">★</h>
+Published 1995. Maybe it is nostalgia talking, but I love this style and look of art. The illustrations are oozing with character and emotion. A simple retelling of the classic, 'Monkey's Jumping on the Bed.' Most of my enjoyment is from the story's fun visuals, and that's enough for me. This telling doesn't have much of a message, but there's enough for me to continue reading and looking at this book. <h style="color:#E7A526;">★</h>
 
 ## Slow Down for Manatees
 

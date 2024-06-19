@@ -253,7 +253,7 @@
   display: flex;
   width: 100%;
   min-width: 100%;
-  background: #fff;
+  background: #FFFFFF;
   padding: 0;
   overflow: auto;
   max-height: 75vh;
@@ -336,24 +336,24 @@
 }
 
 .glightbox-mobile .glightbox-container .gslide-title {
-  color: #f0f0f0;
+  color: #FFFFFF;
   font-size: 1em;
 }
 
 .glightbox-mobile .glightbox-container .gslide-desc a {
-  color: #f0f0f0;
+  color: #FFFFFF;
 }
 
 .glightbox-mobile .glightbox-container .gslide-desc * {
-  color: inherit;
+  color: #FFFFFF;
 }
 
 .glightbox-mobile .glightbox-container .gslide-desc string {
-  color: #f0f0f0;
+  color: #FFFFFF;
 }
 
 .glightbox-mobile .glightbox-container .gslide-desc .desc-more {
-  color: #f0f0f0;
+  color: #FFFFFF;
   opacity: 0.4;
 }
 
@@ -408,7 +408,7 @@
   width: 25px;
   -webkit-animation: lightboxLoader 0.8s infinite linear;
   animation: lightboxLoader 0.8s infinite linear;
-  border: 2px solid #fff;
+  border: 2px solid #FFFFFF;
   border-right-color: transparent;
   border-radius: 50%;
   position: absolute;
@@ -426,12 +426,12 @@
   position: fixed;
   top: -1px;
   left: 0;
-  background: #fff;
+  background: #FFFFFF;
   will-change: opacity;
 }
 
 .glightbox-mobile .goverlay {
-  background: #fff;
+  background: #FFFFFF;
 }
 
 .gprev,
@@ -476,7 +476,7 @@
 .gprev .garrow,
 .gnext .garrow,
 .gclose .garrow {
-  stroke: #fff;
+  stroke: #262626;
 }
 
 iframe.wait-autoplay {
@@ -510,14 +510,14 @@ iframe.wait-autoplay {
   font-size: 1em;
   margin-bottom: 8px;
   line-height: 1;
-  color: #f0f0f0;
+  color: #F0E9E0;
 }
 
 .glightbox-clean .gslide-desc {
   font-size: 15px;
   margin-bottom: 0;
   line-height: 1.4;
-  color: #f0f0f0;
+  color: #F0E9E0;
 }
 
 .gslide-desc {
@@ -539,7 +539,7 @@ iframe.wait-autoplay {
 .glightbox-clean .gprev,
     .glightbox-clean .gnext,
     .glightbox-clean .gclose {
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: #F0E9E0;
   border-radius: 4px;
 }
 
@@ -935,13 +935,13 @@ iframe.wait-autoplay {
 
 @media (min-width: 992px) {
   .glightbox-clean .gclose {
-    opacity: 0.7;
+    opacity: 1;
     right: 20px;
   }
 }
 
 @media screen and (max-height: 420px) {
   .goverlay {
-    background: #fff;
+    background: #FFFFFF;
   }
 }

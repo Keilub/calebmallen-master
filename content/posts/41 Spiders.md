@@ -22,7 +22,7 @@ Published 2013. I wasn't a big fan of this book. The artwork isn't to my taste, 
 
 *by Byron Barton*
 
-Published 1989. Immediately loved the artwork and the bold shapes and colors, very eye-catching! As a kid, I would've loved this book. I was a big dinosaur fan. My parents would've had to read it every night until they were sick of it and 'lost' it. The text is very simple and swiftly told. The writer guides readers through the differences between dinosaurs. The writer personifies the dinos, and by the end, I felt a connection with them. This connection developed into a subtle message of planting myself as a dino. I'm not sure every child could make this connection. Yet, the theme and visuals could engage a child to think and ponder helping them engage with this book on a deeper level. A great book. <h style="color:#5ABB71;">★</h>
+Published 1989. Immediately loved the artwork and the bold shapes and colors, very eye-catching! As a kid, I would've loved this book. I was a big dinosaur fan. My parents would've had to read it every night until they were sick of it and 'lost' it. The text is very simple and swiftly told. The writer guides readers through the differences between dinosaurs. The writer personifies the dinos, and by the end, I felt a connection with them. This connection developed into a subtle message of planting myself as a dino. I'm not sure every child could make this connection. Yet, the theme and visuals could engage a child to think and ponder helping them engage with this book on a deeper level. A great book. <h style="color:#E7A526;">★</h>
 
 ## My Bus
 

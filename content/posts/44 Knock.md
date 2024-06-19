@@ -16,7 +16,7 @@ Published 2001. I enjoyed how unique the artwork was and how comforting it felt.
 
 *by Daniel Beaty, illustrated by Bryan Collier*
 
-Published 2013. Another stylistically interesting book. I loved the mixture of mediums and methods in the illustrations. The text is poetic and the story is heartfelt and impactful. The story leaves some questions unanswered. However, by the end, the answers we do have make us feel brave and encouraged. A fantastic book. <h style="color:#5ABB71;">★</h>
+Published 2013. Another stylistically interesting book. I loved the mixture of mediums and methods in the illustrations. The text is poetic and the story is heartfelt and impactful. The story leaves some questions unanswered. However, by the end, the answers we do have make us feel brave and encouraged. A fantastic book. <h style="color:#E7A526;">★</h>
 
 ## At Night
 

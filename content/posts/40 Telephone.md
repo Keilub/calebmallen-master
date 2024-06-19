@@ -10,7 +10,7 @@ tags: [weekly picture]
 
 *By Mac Barnett, illustrated by Carson Ellis*
 
-Published 2021. Carson Ellis is easily one of my favorite artists working today. Her work is stunning. It shines in this book. Do yourself a favor and pick up this book just for the artwork. As you look at the art, enjoy one of Mac Barnett's most thought-provoking and touching stories. This book gives me vibes of Wolf Erlbruch books, another writer/illustrator you must check out! <h style="color:#5ABB71;">★</h>
+Published 2021. Carson Ellis is easily one of my favorite artists working today. Her work is stunning. It shines in this book. Do yourself a favor and pick up this book just for the artwork. As you look at the art, enjoy one of Mac Barnett's most thought-provoking and touching stories. This book gives me vibes of Wolf Erlbruch books, another writer/illustrator you must check out! <h style="color:#E7A526;">★</h>
 
 Also check out this amazing episode of <a href="https://www.creativepeptalk.com/355-the-creative-power-of-make-belief-and-how-your-art-can-make-others-feel-less-alone-with-carson-ellis-and-mac-barnett/">creative pep talk</a> where Mac and Carson discuss this book. 
 
@@ -36,7 +36,7 @@ Published 2020. I don't get to mention this often, but the paper texture of this
 
 *by Barroux*
 
-Published 2018. A very classic story that focuses on quiet and calm to engage with sleep, it worked for me as I let out a yawn or two. The artwork is really good. I especially loved the giraffe spread, resting their heads on clouds. The rest of the spreads are equally creative and visually addicting to look at. Pick this one up just for the art. <h style="color:#5ABB71;">★</h>
+Published 2018. A very classic story that focuses on quiet and calm to engage with sleep, it worked for me as I let out a yawn or two. The artwork is really good. I especially loved the giraffe spread, resting their heads on clouds. The rest of the spreads are equally creative and visually addicting to look at. Pick this one up just for the art. <h style="color:#E7A526;">★</h>
 
 ***
 

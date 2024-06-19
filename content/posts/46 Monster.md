@@ -19,7 +19,7 @@ Published 2015. The spreads used stunning colors and shifts in color to create a
 ## Mrs. Mo's Monster
 *by Paul Beavis*
 
-Published 2014. Same great artwork. This story was engaging and interesting. I loved where it went and the journey it took me on. We see this monster become curious and grow into doing stuff beyond what it thinks it can do. Wonderful read. <h style="color:#5ABB71;">★</h>
+Published 2014. Same great artwork. This story was engaging and interesting. I loved where it went and the journey it took me on. We see this monster become curious and grow into doing stuff beyond what it thinks it can do. Wonderful read. <h style="color:#E7A526;">★</h>
 
 ## Who ate all the Cookie Dough?
 *by Karen Beaumont, illustrated by Eugene Yelchin*

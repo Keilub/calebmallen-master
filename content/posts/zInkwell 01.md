@@ -6,7 +6,7 @@ image: /images/inkwell1.jpg
 tags: [inkwell & ember]
 ---
 
-<h1 style="color: #5ABB71;">In the Well</h1>
+<h1 style="color: #E7A526;">In the Well</h1>
 
 *An area to share the things and processes going on in my studio/practice.*<br>
 
@@ -41,11 +41,11 @@ Researching and connecting with these spiritual guides have lead my own storytel
 
 <a href="https://www.imdb.com/title/tt1974254/">Far Out Isn't Far Enough: The Tomi Ungerer Story</a>
 
-<h1 style="color: #5ABB71;">Sparks</h1>
+<h1 style="color: #E7A526;">Sparks</h1>
 
 *An area to share the things I've found and have been in my mind either inspring me or just something I found interesting.*<br>
 
-<h1 style="color: #5ABB71;">1.</h1>
+<h1 style="color: #E7A526;">1.</h1>
 
 #### Soft Fronts & Strong Backs
 
@@ -62,7 +62,7 @@ Just a reminder we are connected and should continue to show that grace to other
 
 
 
-<h1 style="color: #5ABB71;">2.</h1>
+<h1 style="color: #E7A526;">2.</h1>
 
 #### An actual (maybe?) use for AI
 
@@ -73,7 +73,7 @@ AI as a tool utilized by humans is interesting in helping uncover mysteries (AI 
 <a href="https://www.nature.com/articles/d41586-023-03604-3">Nature | How AI is expanding Art History</a>
 
 
-<h1 style="color: #5ABB71;">3.</h1>
+<h1 style="color: #E7A526;">3.</h1>
 
 #### You, Nicholas
 <a href="https://www.theguardian.com/film/2023/nov/03/i-didnt-get-into-movies-to-become-a-meme-nicolas-cage-on-dreams-fame-and-his-two-headed-">The Guardian | I Didn't get into movies to become a meme.</a>
@@ -82,14 +82,14 @@ AI as a tool utilized by humans is interesting in helping uncover mysteries (AI 
 
 A you crafted by you, a you from them, and then its just you.
 
-<h1 style="color: #5ABB71;">4.</h1>
+<h1 style="color: #E7A526;">4.</h1>
 
 #### Family Crest
 <a href="https://www.patagonia.com/stories/1300-miles/story-143510.html">Patagonia | 1300 Miles</a>
 
 As someone that always idealized the idea of solo backpacking but has been slowly building a family, it’s nice to see a family taking on the task of a Pacific Coast Trek. 
 
-<h1 style="color: #5ABB71;">5.</h1>
+<h1 style="color: #E7A526;">5.</h1>
 
 #### Dinosaurs!
 
@@ -106,7 +106,7 @@ John Scalzi, The Kaiju Preservation Society
 
 It's funny how things work out sometimes. I tried reading The Kaiju Preservation Society early 2023, but I jumped off it fairly quickly. Not because I didn't enjoy it, but something just didn't resonate with me. I had my eyes on another book. But a few weeks ago I picked up the book again form my library and absolutly breezed thru the book in a day. The book personally resonated with me in a deeper way. The main character had lost their job, just as I had at that time. It was a simple feel good book that managed to hit me in a deep way right as life was hitting me in the face with some anxiety. Shortly after finishing this book, I came across an interesting article. It was about a new discovery for dinosaurs, made from the contents of a dinosaur's stomach.
 
-<h1 style="color: #5ABB71;">6.</h1>
+<h1 style="color: #E7A526;">6.</h1>
 
 #### Role Playing Adventures
 
@@ -123,7 +123,7 @@ Big fan of fantasy... escaping can lead the mind to unexpected connections
 <a href="https://baldursgate3.game" >Baldurs Gate 3</a>
 
 
-<h1 style="color: #5ABB71;">7.</h1>
+<h1 style="color: #E7A526;">7.</h1>
 
 #### Anxiety & Mystery
 
@@ -132,7 +132,7 @@ Big fan of fantasy... escaping can lead the mind to unexpected connections
 
 It’s funny what we gravitate towards that ultimately is exactly the we need in our lives. I'm writing a story on fear of the unknown and the anxieties it brings. I found myself diving into two drastically different shows. <a href="https://www.imdb.com/title/tt14452776/">The Bear</a> overwhelms every sense and inch of mind with anxiety and the unknown. <a href="https://www.imdb.com/title/tt1466074/?ref_=fn_al_tt_1">Columbo</a> tells you the end but leaves you clueless about how we get there. Both shows are impeccable storytelling that dabbles in the unknowns and its anxiety.
 
-<h1 style="color: #5ABB71;">8.</h1>
+<h1 style="color: #E7A526;">8.</h1>
 
 #### Climbing Mysteries 
 
@@ -140,7 +140,7 @@ It’s funny what we gravitate towards that ultimately is exactly the we need in
 
 Has been a great meditative experience of climbing a mysterious mountain in a ravaged land. 
 
-<h1 style="color: #5ABB71;">9.</h1>
+<h1 style="color: #E7A526;">9.</h1>
 
 #### Tell it to the Bees 
 
@@ -148,7 +148,7 @@ Has been a great meditative experience of climbing a mysterious mountain in a ra
 
 Stumbled upon a comment talking about this concept one morning while roaming the web. An interseting tale of the bees and telling your secrets to the universe. 
 
-<h1 style="color: #5ABB71;">10.</h1>
+<h1 style="color: #E7A526;">10.</h1>
 
 #### Things from the Shore leading to the Deep
 
@@ -160,7 +160,7 @@ Stumbled upon a comment talking about this concept one morning while roaming the
 
 It is astounding what the mind creates during times of things falling apart, stories of humans experiecing this sublime feeling as things begin to fall and then the stories after the fall of things continuing deep beneath that leads to discovery.
 
-<h1 style="color: #5ABB71;">★</h1>
+<h1 style="color: #E7A526;">★</h1>
 
 #### And Here's a List
 Just in case any end of year post requires a list of favorites, here are all my favorite picture books (in no particular order) I read this year: 

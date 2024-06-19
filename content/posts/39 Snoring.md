@@ -28,7 +28,7 @@ Published 2019. The artwork is fine, but nothing that stood out particularly. Th
 
 *by Mac Barnett, illustrated by Jon Klassen*
 
-Published 2014. If in search of what a perfect picture book can look like, look no further. The artwork is your typical Jon Klassen style, which has never let me down, stunning work as usual. The story and illustrations shine together. This is where the magic happens. As Sam & Dave dig, readers see things they miss. There's a constant back and forth in the text and illustrations. This makes for a fantastic and full experience reading this book. The ending is perfect and unexpected and all the things you want in a book. <h style="color:#5ABB71;">★</h>
+Published 2014. If in search of what a perfect picture book can look like, look no further. The artwork is your typical Jon Klassen style, which has never let me down, stunning work as usual. The story and illustrations shine together. This is where the magic happens. As Sam & Dave dig, readers see things they miss. There's a constant back and forth in the text and illustrations. This makes for a fantastic and full experience reading this book. The ending is perfect and unexpected and all the things you want in a book. <h style="color:#E7A526;">★</h>
 
 ## The Reluctant Flower Girl
 

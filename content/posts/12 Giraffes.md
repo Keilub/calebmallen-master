@@ -14,7 +14,7 @@ Published 1998, The illustrations are gorgeous, with excellent color and texture
 ## Giraffes Can't Dance 
 *By Giles Andreae and Guy Parker-Rees*
 
-Published 1999, I love the artwork's playfulness, and the colors play well to the action in the drawings. The play with typefaces is fun and fitting. The text is very thematic and has a great rhythm and flow. The story's truth is lovely and, overall, a great story from start to finish. I like what it says about self and finding that 'music' that makes you shine and gives you your best self. <h style="color:#5ABB71;">★</h>
+Published 1999, I love the artwork's playfulness, and the colors play well to the action in the drawings. The play with typefaces is fun and fitting. The text is very thematic and has a great rhythm and flow. The story's truth is lovely and, overall, a great story from start to finish. I like what it says about self and finding that 'music' that makes you shine and gives you your best self. <h style="color:#E7A526;">★</h>
 
 
 ## The Kid Who Changed the World

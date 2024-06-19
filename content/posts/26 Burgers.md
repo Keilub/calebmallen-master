@@ -22,7 +22,7 @@ Published 1994. The artwork is fun and energetic. The story is a sly way to inco
 
 *written by Jim Aylesworth and illustrations by Stephen Gammell*
 
-Published 2001. I adore the work of Stephen Gammell, so this book is such a blast to look at just for the illustrations. Its drawings are smile-inducing, wacky, and just an absolute delight. This book is a collection of food-based silly stories that range from jokes to nonsense and, at times, thought-provoking. I love the variety and the illustrations. <h style="color:#5ABB71;">★</h>
+Published 2001. I adore the work of Stephen Gammell, so this book is such a blast to look at just for the illustrations. Its drawings are smile-inducing, wacky, and just an absolute delight. This book is a collection of food-based silly stories that range from jokes to nonsense and, at times, thought-provoking. I love the variety and the illustrations. <h style="color:#E7A526;">★</h>
 
 ## Cock-a-doodle-doo, Creak, Pop-pop, Moo
 
@@ -34,7 +34,7 @@ Published 2012. I also enjoy Brad Sneed's work, so I enjoy this book. This story
 
 *Retold by Jim Ayleswroth and illustrations by Barbara McClintock*
 
-Published 2009. The artwork is charming and fits the theme and story exceptionally well. The story itself is absurd, delightful, and funny. There is a message here without directly telling you, which is lovely and makes for a perfect bedtime read. <h style="color:#5ABB71;">★</h>
+Published 2009. The artwork is charming and fits the theme and story exceptionally well. The story itself is absurd, delightful, and funny. There is a message here without directly telling you, which is lovely and makes for a perfect bedtime read. <h style="color:#E7A526;">★</h>
 
 ***
 

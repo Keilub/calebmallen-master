@@ -10,7 +10,7 @@ tags: [weekly picture]
 
 *written by Judi Barrett, drawn by Ron Barrett*
 
-Published 2018. A book that simply plays and reveals itself from the silly. Fantastic and timeless art paired with well-written text. It is creative and unique, creating a very fun book experience. <h style="color:#5ABB71;">★</h>
+Published 2018. A book that simply plays and reveals itself from the silly. Fantastic and timeless art paired with well-written text. It is creative and unique, creating a very fun book experience. <h style="color:#E7A526;">★</h>
 
 ## Love You Head to Toe
 
@@ -22,7 +22,7 @@ Published 2019. I don't see this as a book for kids, to me the focus seems to be
 
 *by Mac Barnett, illustrated by Jon Klassen.* 
 
-Published 2012. This is a book I am very familiar with as it is one of my all-time favorite modern books. Jon Klassen creates lovely worlds with beautiful colors and textures. He adds just the right amount of expressive and dry-tone humor. Both Klassen and Barnett bring unique elements to the story. The text reveals things the illustrations don't, and the illustrations reveal things the text doesn't. All this comes together into a wonderful daydream of a book with a simple and effective moral. <h style="color:#5ABB71;">★</h>
+Published 2012. This is a book I am very familiar with as it is one of my all-time favorite modern books. Jon Klassen creates lovely worlds with beautiful colors and textures. He adds just the right amount of expressive and dry-tone humor. Both Klassen and Barnett bring unique elements to the story. The text reveals things the illustrations don't, and the illustrations reveal things the text doesn't. All this comes together into a wonderful daydream of a book with a simple and effective moral. <h style="color:#E7A526;">★</h>
 
 ## I Have a Garden
 

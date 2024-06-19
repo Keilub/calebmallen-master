@@ -14,7 +14,7 @@ Published 2005. The expressive and vibrant artwork fits the mood and text of the
 ## Rosie Revere, Engineer
 *by Andrea Beaty, illustrated by David Roberts*
 
-Published 2013. Immediately loved the modern vintage style of the artwork. A lovely balance of linework and simple blocked colors underneath. The text is very rhythmic and has a great flow to it that makes reading it quite enjoyable. The story wears its moral on its sleeve. It's very upfront, but it works. It's a great, whimsical, fantastical tale. An especially perfect book for that child who loves to build. <h style="color:#5ABB71;">★</h>
+Published 2013. Immediately loved the modern vintage style of the artwork. A lovely balance of linework and simple blocked colors underneath. The text is very rhythmic and has a great flow to it that makes reading it quite enjoyable. The story wears its moral on its sleeve. It's very upfront, but it works. It's a great, whimsical, fantastical tale. An especially perfect book for that child who loves to build. <h style="color:#E7A526;">★</h>
  
 ## Ada Twist, Scientist
 by Andrea Beaty, illustrated by David Roberts*
@@ -24,7 +24,7 @@ Published 2016. Same great art as this book seems to be a part of a series. The 
 ## Iggy Peck, Architect
 *by Andrea Beaty, illustrated by David Roberts*
 
-Published 2007. Again, the same great artwork holds true. The text wasn't as easily read but it was still a delight to read with wonderful word selection. The arc of the story is equally fantastic as we get to the end of the tale. <h style="color:#5ABB71;">★</h>
+Published 2007. Again, the same great artwork holds true. The text wasn't as easily read but it was still a delight to read with wonderful word selection. The arc of the story is equally fantastic as we get to the end of the tale. <h style="color:#E7A526;">★</h>
  
 ## Building Our House
 *by Jonathan Bean*

@@ -22,7 +22,7 @@ Published 2012. A Sesame Street branded book. This art style is typically differ
 
 *by Molly Bang*
 
-Published 1994. Molly Bang's name immediately sounded familiar; if you are an illustrator, I highly recommend checking out her instructional book on compositions, 'Picture This.' The artwork is unique and fresh, and I LOVE it! It looks like a creative blend of flat papercraft, found objects, and puppets! Interesting compositions and fantastic colors with a nice variety of how the illustration moves the eye between spots of flat color vs. areas of dense textures and exciting visuals. The text is complex as it has a pleasurable, poetically disjointed read to it that uses a wide range of engaging words. I like the simple journey with a subtle 'conflict' in the middle. It is a very present-focused book that I enjoyed. <h style="color:#5ABB71;">★</h>
+Published 1994. Molly Bang's name immediately sounded familiar; if you are an illustrator, I highly recommend checking out her instructional book on compositions, 'Picture This.' The artwork is unique and fresh, and I LOVE it! It looks like a creative blend of flat papercraft, found objects, and puppets! Interesting compositions and fantastic colors with a nice variety of how the illustration moves the eye between spots of flat color vs. areas of dense textures and exciting visuals. The text is complex as it has a pleasurable, poetically disjointed read to it that uses a wide range of engaging words. I like the simple journey with a subtle 'conflict' in the middle. It is a very present-focused book that I enjoyed. <h style="color:#E7A526;">★</h>
 
 ## Ten, Nine, Eight
 

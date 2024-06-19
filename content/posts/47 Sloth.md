@@ -9,7 +9,7 @@ tags: [weekly picture]
 ## Journey
 *by Aaron Becker*
 
-Published 2013. Pick this one up for the art alone. I typed that just from the first spread... not realizing this was a wordless picture book. Stunning illustrations that tell a beautiful story. The illustrations reveal the whimsical and mysterious ways of the world. They give me hints of Alice in Wonderland. Such a fun, fun book! <h style="color:#5ABB71;">★</h>
+Published 2013. Pick this one up for the art alone. I typed that just from the first spread... not realizing this was a wordless picture book. Stunning illustrations that tell a beautiful story. The illustrations reveal the whimsical and mysterious ways of the world. They give me hints of Alice in Wonderland. Such a fun, fun book! <h style="color:#E7A526;">★</h>
  
 ## Quest
 *by Aaron Becker*
@@ -29,7 +29,7 @@ Published 2014. Lovely artwork with such a charming touch. I relate to Bear so q
 ## Sloth at the Zoom
 *by Helaine Becker and Orbie*
 
-Published 2018. The textures and colors of the artwork are fantastic! I really enjoyed the variety in the illustrations as well. The story was a great balance of silly and heartfelt with a very heartwarming ending to match. <h style="color:#5ABB71;">★</h>
+Published 2018. The textures and colors of the artwork are fantastic! I really enjoyed the variety in the illustrations as well. The story was a great balance of silly and heartfelt with a very heartwarming ending to match. <h style="color:#E7A526;">★</h>
 
 
 ***

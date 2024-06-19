@@ -10,7 +10,7 @@ tags: [weekly picture]
 
 *written by Dianna Hutts Aston and illustrated by Jerry Pinkney*
 
-Published 2008. What can I say? Art by Jerry Pinkney is always astonishing and captivating. The story was a complex meandering of a moment in history with a great message. An excellent little read that teaches quite a bit in layers of a historical event, what life was like back then, and to keep dreaming and going forward. <h style="color:#5ABB71;">★</h>
+Published 2008. What can I say? Art by Jerry Pinkney is always astonishing and captivating. The story was a complex meandering of a moment in history with a great message. An excellent little read that teaches quite a bit in layers of a historical event, what life was like back then, and to keep dreaming and going forward. <h style="color:#E7A526;">★</h>
 
 ## B is for Baby
 

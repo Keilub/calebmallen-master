@@ -116,7 +116,7 @@ blockquote::before {
   position: absolute;
   left: -20px;
   top: -40px;
-  color: #5ABB71
+  color: #E7A526
 }
 
 pre {
@@ -148,13 +148,13 @@ img,
     font-style: normal;
     font-weight: normal;
     text-align: center;
-    color: var(--heading-font-color);
+    color: #FFFFFF;
   
     a {
       transition: $global-transition;
 
       &:hover {
-        color: #5ABB71;
+        color: #262626;
       }
     }
   
@@ -233,9 +233,9 @@ table td {
 }
 
 .lightense-backdrop {
-  background-color: var(--background-alt-color) !important;
+  background-color: #FFFFFF !important;
 }
 
 li::marker{
-  color:#5ABB71
+  color:#E7A526
 }

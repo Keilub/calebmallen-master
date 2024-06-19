@@ -10,7 +10,7 @@ tags: [weekly picture]
 
 *written by Jim Aylesworth and illustrations by Richard Hull*
 
-Published 1996. I will buy this book just for the artwork. It is somewhat nostalgic, but the art is incredibly well done, and I love how the book is laid out, simple, and with slight variations. The illustrations are full of things to look at and are silly, with lots of textures and striking colors to enchant the eye. Stunning. The story is nice, but I wish the rhythm set at the beginning of each page was subverted at some place and played with because I found it too repetitive towards the end and became unnecessary. Great message as well. <h style="color:#5ABB71;">★</h>
+Published 1996. I will buy this book just for the artwork. It is somewhat nostalgic, but the art is incredibly well done, and I love how the book is laid out, simple, and with slight variations. The illustrations are full of things to look at and are silly, with lots of textures and striking colors to enchant the eye. Stunning. The story is nice, but I wish the rhythm set at the beginning of each page was subverted at some place and played with because I found it too repetitive towards the end and became unnecessary. Great message as well. <h style="color:#E7A526;">★</h>
 
 ## Henry and the Yeti
 

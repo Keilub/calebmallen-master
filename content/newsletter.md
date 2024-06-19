@@ -14,7 +14,7 @@ permalink: /newsletter/
 </picture>
 <br>
 
-<h2 style="color: #5ABB71">Hey Wanderer!</h2>
+<h2 style="color: #E7A526">Hey Wanderer!</h2>
 
 The Wanderway is my Blog/Newsletter, better called a creative experiment for me. Currently, the Newsletter is focused on picture books I read and the history of picture books. At some point, it may also include any of the below or maybe even something not listed:
 
@@ -42,7 +42,7 @@ The Wanderway is a free subscription and will remain that way for the foreseeabl
 
 I’m a big fan of the books The Wander Society as well as The Art of Noticing and the themes they talk about. I have also always enjoyed sharing my inspirations and wandering wherever they take me as I passionately dive deep into new hobbies and interest. The name was solidified when I was running a new route one evening and came across the sign you see in the newsletter’s avatar image, the wanderway sign.
 
-<h2 style="color: #5ABB71;">Current Schedule</h2>
+<h2 style="color: #E7A526;">Current Schedule</h2>
 
 ##### The Weekly Picture
 

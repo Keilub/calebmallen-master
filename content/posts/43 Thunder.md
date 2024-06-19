@@ -28,13 +28,13 @@ Published 2003. The artwork was hit or miss at times with me. Some spreads and s
 
 *by Marion Dane Bauer, illustrated by Margaret Chodos-Irvine*
 
-Published 2012. The artwork is incredible. I love the woodcut look of the illustrations. They have lovely colors and expressive compositions. They create a visual bounce as you read the book. The text was cut down to what we needed and I liked the repetition of that leads into the resolution. A very fun read with a good message in the end. <h style="color:#5ABB71;">★</h>
+Published 2012. The artwork is incredible. I love the woodcut look of the illustrations. They have lovely colors and expressive compositions. They create a visual bounce as you read the book. The text was cut down to what we needed and I liked the repetition of that leads into the resolution. A very fun read with a good message in the end. <h style="color:#E7A526;">★</h>
 
 ## Job Wanted 
 
 *by Teresa Bateman, illustrated by Chris Sheban*
 
-Published 2015. LOVE the artwork! It is exactly to my personal taste in artwork and has a Seurat quality. The story was thought-provoking. I felt it could've been a bit stronger with its ending and the message it was trying to tell. Honestly, I think that the slight fuzziness of the ending message is good. It allows me to take what I want from this book. It's a story about how the presence of a dog and being a good dog are good enough for food and being on the farm, not the value of a job. I would pick this one up again and I think you should too! <h style="color:#5ABB71;">★</h>
+Published 2015. LOVE the artwork! It is exactly to my personal taste in artwork and has a Seurat quality. The story was thought-provoking. I felt it could've been a bit stronger with its ending and the message it was trying to tell. Honestly, I think that the slight fuzziness of the ending message is good. It allows me to take what I want from this book. It's a story about how the presence of a dog and being a good dog are good enough for food and being on the farm, not the value of a job. I would pick this one up again and I think you should too! <h style="color:#E7A526;">★</h>
 
 ***
 

@@ -10,7 +10,7 @@ tags: [weekly picture]
 
 *written by Jim Averbeck and illustrations by Tricia Tusa*
 
-Published 2008. A book where the pictures are perfect with the text and story. Absolutely a grand book and a subtle and charming message. Read this one as soon as possible. Magical. <h style="color:#5ABB71;">★</h>
+Published 2008. A book where the pictures are perfect with the text and story. Absolutely a grand book and a subtle and charming message. Read this one as soon as possible. Magical. <h style="color:#E7A526;">★</h>
 
 ## Hope
 

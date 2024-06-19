@@ -10,13 +10,13 @@ tags: [weekly picture]
 
 *by Tedd Arnold*
 
-Published 2013. The artwork is so well done, fits perfectly with the text, and is varied. The story is excellent, silly, and incredibly creative. I loved this story because it builds on itself and weaves its message consistently without becoming overwhelming or preachy, and I hope you pick it up.<h style="color:#5ABB71;">★</h>
+Published 2013. The artwork is so well done, fits perfectly with the text, and is varied. The story is excellent, silly, and incredibly creative. I loved this story because it builds on itself and weaves its message consistently without becoming overwhelming or preachy, and I hope you pick it up.<h style="color:#E7A526;">★</h>
 
 ## Green Wilma
 
 *by Tedd Arnold*
 
-Published 1993. The book starts immediately and wonderfully, and I was engaged from the first page. The story is creative, and the ending is unexpected, with a great message. For all of Tedd Arnold's books so far, the artwork is extremely well done and full of life and energy. Seeing this artwork makes me feel an instant joy, and I feel like in Ratatouille when the critic is zapped back to childhood. <h style="color:#5ABB71;">★</h>
+Published 1993. The book starts immediately and wonderfully, and I was engaged from the first page. The story is creative, and the ending is unexpected, with a great message. For all of Tedd Arnold's books so far, the artwork is extremely well done and full of life and energy. Seeing this artwork makes me feel an instant joy, and I feel like in Ratatouille when the critic is zapped back to childhood. <h style="color:#E7A526;">★</h>
 
 ## More Parts
 
