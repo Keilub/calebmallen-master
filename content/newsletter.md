@@ -5,12 +5,12 @@ permalink: /newsletter/
 <picture>
   <source
     media="(min-width: 750px)"
-    srcset="/images/wanderwayprofile.png">
+    srcset="/images/wanderwayprofile1.png">
   <source
     media="(min-width: 300px)"
-    srcset="/images/wanderwayprofilemobile.png">
+    srcset="/images/wanderwayprofilemobile1.png">
   <img
-    src="/images/wanderwayprofile.png"><br>
+    src="/images/wanderwayprofile1.png"><br>
 </picture>
 <br>
 
