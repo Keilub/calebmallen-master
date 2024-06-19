@@ -1,18 +1,6 @@
 ---
 title: 
 ---
-<picture>
-  <source
-    media="(min-width: 750px)"
-    srcset="/images/Contact.png">
-  <source
-    media="(min-width: 300px)"
-    srcset="/images/ContactMobile.png">
-  <img
-    src="images/Contact.png"><br>
-</picture>
-<br>
-
 <h2 style="color: #E7A526;">Let's Collaborate!</h2>
 
 For all inquiries (or just to say hello) please email me <a href="mailto: caleballen@hey.com">here</a>. I look forward to hearing from you.</a><br>
