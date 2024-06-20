@@ -56,6 +56,10 @@
   margin-bottom: 12px;
   font-size: 26px;
   text-align: center;
+  pointer-events: none !important;
+  border-bottom: 0px !important;
+
+  
   a {
     &:hover {
       color: var(--heading-font-color);

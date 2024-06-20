@@ -239,3 +239,14 @@ table td {
 li::marker{
   color:#E7A526
 }
+
+a {
+  color: #262626;
+  border-bottom: 1px solid (#2626262d);
+
+  &:hover {
+    text-decoration: none;
+    color: var(--link-color);
+    border-bottom: 1px solid (#26262692);
+  }
+}
