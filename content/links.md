@@ -20,7 +20,6 @@ Thank you,
 <h2 style="color: #E7A526">Links</h2>
 
 
-<center>
 
 <a href="https://calebmallen.com/posts/40-telephone/" >What Is Telephone | 40</a>
 
@@ -32,4 +31,3 @@ Thank you,
 
 <a href="https://calebmallen.com/posts/36-john/" >John's Elephant | 36</a>
 
-</center>
