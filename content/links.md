@@ -3,9 +3,9 @@ title:
 permalink: /links/
 ---
 
-<h2 style="color: #E7A526">Links</h2>
+<h2 style="color: #E7A526">Ya Ha!</h2>
 
-Ya Ha! You found this link! It was made just for you. Below are the links mentioned from my 5 most recent Instagram posts. Feel free to explore the rest of my website for a wealth of other stories and content.
+You found this link! It was made just for you. Below are the links mentioned from my 5 most recent Instagram posts. Feel free to explore the rest of my website for a wealth of other stories and content.
 
 Not subscribed yet? Join my Substack, The Wanderway, to receive all posts directly in your inbox. Don't worry—I only post once a week, occasionally twice, so I won't overwhelm your inbox.
 
@@ -14,6 +14,11 @@ Thank you,
 *Caleb*
 
 <iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+<br>
+
+<h2 style="color: #E7A526">Links</h2>
+
 
 <center>
 
