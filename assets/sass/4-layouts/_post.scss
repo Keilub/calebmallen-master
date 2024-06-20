@@ -4,16 +4,7 @@
   margin: 0 auto 60px;
   color: var(--text-color);
 
-  a {
-    color: #262626;
-    border-bottom: 1px solid (#2626262d);
-
-    &:hover {
-      text-decoration: none;
-      color: var(--link-color);
-      border-bottom: 1px solid (#26262692);
-    }
-  }
+ 
 
   img, .js-reframe {
     border-radius: 8px;

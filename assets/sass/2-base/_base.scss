@@ -240,13 +240,13 @@ li::marker{
   color:#E7A526
 }
 
-a {
+a:not(:has(img,div,h5)) {
   color: #262626;
   border-bottom: 1px solid (#2626262d);
 
   &:hover {
     text-decoration: none;
     color: var(--link-color);
-    border-bottom: 1px solid (#26262692);
+    border-bottom: 1px solid (#E7A526);
   }
 }

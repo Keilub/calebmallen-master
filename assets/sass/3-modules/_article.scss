@@ -2,13 +2,13 @@
 .article {
   margin-bottom: 32px;
   will-change: transform;
-  transition: transform .2s;
+  transition: transform .5s;
 
   &:hover {
-    transform: translateY(-10px);
+    transform: translateY(-2px);
 
     .article__title a {
-      text-decoration-color: #262626;
+      text-decoration-color: none;
     }
   }
 }
@@ -54,11 +54,8 @@
 
 .article__title {
   margin-bottom: 12px;
-  font-size: 26px;
+  font-size: $font-size-h5;
   text-align: center;
-  pointer-events: none !important;
-  border-bottom: 0px !important;
-
   
   a {
     &:hover {
