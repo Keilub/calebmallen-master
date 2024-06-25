@@ -1,7 +1,7 @@
 ---
 title: vintage galore | 51
 description: Bunches & Bunches and Bunches of Madeline.
-date:   2024-07-16 13:00:00 +0300
+date:   2025-07-16 13:00:00 +0300
 image: /images/wanderway51.jpg
 tags: [weekly picture]
 ---

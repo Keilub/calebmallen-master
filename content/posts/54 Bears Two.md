@@ -1,7 +1,7 @@
 ---
 title: berenstain bonanza part two | 54
 description: Learning manners for all.
-date:   2024-08-06 13:00:00 +0300
+date:   2025-08-06 13:00:00 +0300
 image: /images/wanderway54.jpg
 tags: [weekly picture]
 ---

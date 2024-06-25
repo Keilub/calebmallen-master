@@ -1,7 +1,7 @@
 ---
 title: a train to pierre | 49
 description: Plenty of unexpected styles.
-date:   2024-07-02 13:00:00 +0300
+date:   2025-07-02 13:00:00 +0300
 image: /images/wanderway49.jpg
 tags: [weekly picture]
 ---

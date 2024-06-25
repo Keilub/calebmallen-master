@@ -1,7 +1,7 @@
 ---
 title: berenstain bonanza part one | 53
 description: A few weeks, at the least, with some bears.
-date:   2024-07-30 13:00:00 +0300
+date:   2025-07-30 13:00:00 +0300
 image: /images/wanderway53.jpg
 tags: [weekly picture]
 ---

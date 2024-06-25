@@ -1,7 +1,7 @@
 ---
 title: emily and hector | 48
 description: A variety of books to stare at, or read.
-date:   2024-06-25 13:00:00 +0300
+date:   2025-06-25 13:00:00 +0300
 image: /images/wanderway48.jpg
 tags: [weekly picture]
 ---

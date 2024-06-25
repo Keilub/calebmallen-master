@@ -1,7 +1,7 @@
 ---
 title: crustacean elephant | 52
 description: A feast for the eyes.
-date:   2024-07-23 13:00:00 +0300
+date:   2025-07-23 13:00:00 +0300
 image: /images/wanderway52.jpg
 tags: [weekly picture]
 ---
