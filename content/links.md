@@ -9,7 +9,7 @@ You found this link! It was made just for you. Below are the links mentioned fro
 
 <br>
 
-<a href="https://calebmallen.com/posts/41-spiders/" >Dino Buss Full of Spiders | 41</a>
+<a href="https://calebmallen.com/posts/41-spiders/" >Dino Bus Full of Spiders | 41</a>
 
 <a href="https://calebmallen.com/posts/40-telephone/" >What Is Telephone | 40</a>
 
