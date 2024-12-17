@@ -36,9 +36,8 @@ Published 1996. The story was creative and silly, slowed down at points, and the
 
 Published 1995. I liked the simplicity of color and texture in the artwork. The story came across as very preachy to me and hit you over the head with a message; it could've been more subtle and been a more intereseting book for it.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

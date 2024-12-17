@@ -36,9 +36,8 @@ Published 2016. The artwork, at times, looks like stills from a cartoon which I 
 
 Published 2014. Charming and straightforward illustrations. I love the colors being used and the unrestricted linework that meanders along to form the characters and environments. The story was disjointed from the visuals, and the book was sometimes confusing because of this.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

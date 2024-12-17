@@ -34,10 +34,8 @@ Published 1992. This one had a rhyme and rhythm to it which was a new thing for 
 
 Published 2006. This one was a different format than the rest of the books we’ve read so far, it was in the size/shape of a more traditional picture book. The artwork is a bit different with a modern feel to it in its colors being more saturated and the density of the illustrations being more complex than the other books. Once again, the text is in a rhyme verse, I think it is my nostalgia hitting me, but I prefer the non-rhyme books so far. This story didn’t have a traditional conflict, but I did enjoy the conflict it did have, and I liked the range of story it had in its showcase of the range of activities the bears went on while on vacation. An enjoyable read but this doesn’t necessarily feel like the traditional Berenstain bear books, which isn’t bad, but it should be noted that it just feels different. 
 
+<h style="color:#E7A526;">***</h>
 
-***
-
-<br>
 Thank you,
 
 *Caleb*

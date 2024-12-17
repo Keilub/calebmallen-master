@@ -40,10 +40,8 @@ Published 2001. Simple sweet story, that goes the way you expected it too. I lik
 
 Published 1988. I immediately loved the cover of this story and the very creative designs throughout; the drawings stand out overall in this book. The first spread does a wonderful job of setting up the story, it is so simple and effective and really gives us an understanding of these characters in a swift spread. The story caught me by surprise on who would have the bad dream, I felt it was a fun simple story, maybe the story could’ve used a bit more in the end of ‘how’ to address bad dreams but I think this was a good introduction to them and allows a child to relate and understand them better just by experiencing them in story. 
 
+<h style="color:#E7A526;">***</h>
 
-***
-
-<br>
 Thank you,
 
 *Caleb*

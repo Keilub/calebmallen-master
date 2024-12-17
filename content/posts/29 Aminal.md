@@ -36,9 +36,8 @@ Published 1972. I enjoyed the lovely linework and the selective use of color. In
 
 Published 1980. I love the monotone color with the splashes of green for the leprechaun's hat. The story reads like an old fairytale, which I enjoyed. The message is nicely told, and the ending is one I did not see coming as I was reading it. It did make a fool of the child with little resolve or growth beyond that particular characteristic, so I'm curious to see how a child would receive this book. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

@@ -36,9 +36,8 @@ Published 2008. What an odd book at first glance because the greens on the cover
 
 Published 2015. The artwork is good, but not to my taste. The story was quite wordy, and it could be edited down. I enjoyed the multiple uses of the hat, and the ending was a bit unexpected, which was nice.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

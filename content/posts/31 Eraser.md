@@ -36,9 +36,8 @@ Published 1999. I loved the abstract feel of these illustrations and the texture
 
 Published 2002. I liked the looseness of the drawings and their simplicity paired with the complexity of the marks and strokes of loosely mixed colors and paints. I liked the story until the end and wished it would've had more to say or something at all to say about dreams that would've fit with the rest of the text. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

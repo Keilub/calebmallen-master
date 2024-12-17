@@ -36,9 +36,8 @@ Published 2012. I was initially not a fan of the artwork, but it really grew on 
 
 Published 2015. The publication date of this book surprised me, as it has a vintage feel to it. The artwork is nostalgic and gorgeous. It has stunning linework and textures paired with lovely, muted, yet still vibrant colors. Loved the fun phonetic words that engaged with the reader and created a nice structure and rhythm to the text. I enjoyed the book very much. It's perfect for those grey, dreary months when you feel spring may never show up. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

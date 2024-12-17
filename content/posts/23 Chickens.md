@@ -36,9 +36,8 @@ Published 2005. This artwork is fascinating; it is a collage of photographs and 
 
 Published 1992. Same as most of Auch's books; not a particular fan, but they are all 'ok' books.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

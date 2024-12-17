@@ -36,9 +36,8 @@ Published 2017. I probably would've never picked this one up by judging it from 
 
 Published 2014. I adored the style of this book, the line work and coloring works well for me. Using only 2 unique words, the story tells itself and does a very nice job of it. Fun from beginning to end with a sweet ending.  
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

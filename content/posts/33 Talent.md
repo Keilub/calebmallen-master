@@ -36,9 +36,8 @@ Published 2011. A sweet simple story about chicks that won't sleep until mama jo
 
 Published 2011. An easy informative book on hygiene. I loved the animal focus and very unique artwork in the book. Not much in the story but I wouldn't say it needs it exactly. Pick it up for a fun pre-bathtime treat.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

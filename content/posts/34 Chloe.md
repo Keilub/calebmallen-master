@@ -36,9 +36,8 @@ Published 2013. It's more of the same, even with a different illustrator the pic
 
 Published 2013. A fantastic twist on the counting book format. The artwork pops off the page with excitement and color. The story is interesting and engaging. Read this!
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

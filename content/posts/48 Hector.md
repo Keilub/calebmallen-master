@@ -31,11 +31,8 @@ Published 2015. The artwork was good, very well done, and told a bunch of funny 
 
 Published 2007. Stunning color and painterly strokes, fantastic artwork. The story is a fairly simple and straightforward tale that leads to a bedtime/go-to-sleep message. Well done and worth a read, especially around bedtime. 
 
+<h style="color:#E7A526;">***</h>
 
-
-***
-
-<br>
 Thank you,
 
 *Caleb*

@@ -36,9 +36,8 @@ Published 2000. It's an alphabet book with no direct story here, but the illustr
 
 Published 1994. Fantastic illustrations. The story is sweet, and I love how the images show what isn't in the text. The story reminds me in message and structure of "What is Love" by Mac Barnett and Carson Ellis. The story is wordier than it needs to be, but it still is an excellent read with a great message.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

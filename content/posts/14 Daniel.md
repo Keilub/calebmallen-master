@@ -36,9 +36,8 @@ Published 2019. The artwork is so unique, and the paring of cut paper with what 
 
 Published 2016. A stunning book with a tremendous and thought-provoking message. All things are working so well in this book. Please read it. <h style="color:#E7A526;">★</h>
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

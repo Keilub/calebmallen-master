@@ -36,9 +36,8 @@ Published 1997. Same lovely artwork and a few great moments where the illustrati
 
 Published 1987. Very consistent work from Jim Arnosky, same superb artwork and gentle stories. I just realized that these stories feel like 'Planet Earth' were children's books. They so beautifully capture a simple moment in time, even if these books don't always catch every truth, as a moment of conflict or more significant stakes could make these exciting stories, but that would also change what Arnosky desired to achieve with these books.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

@@ -36,9 +36,8 @@ Published 2021. The artwork is different from my taste, but it is nicely done. I
 
 Published 2013. It is cute and sweet artwork with lovely pastel colors and illustrations. The story was nice, but I wish the resolution were more satisfying as it was a bit of a cop-out to have the parent randomly decide to keep Phil suddenly. I did love the parts leading up to the parent's arrival; they were silly and fun. It's a decent story that I wish had a better resolution. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

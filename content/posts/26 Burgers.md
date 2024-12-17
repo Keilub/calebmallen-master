@@ -36,9 +36,8 @@ Published 2012. I also enjoy Brad Sneed's work, so I enjoy this book. This story
 
 Published 2009. The artwork is charming and fits the theme and story exceptionally well. The story itself is absurd, delightful, and funny. There is a message here without directly telling you, which is lovely and makes for a perfect bedtime read. <h style="color:#E7A526;">★</h>
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

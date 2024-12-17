@@ -31,10 +31,8 @@ Published 2014. Lovely artwork with such a charming touch. I relate to Bear so q
 
 Published 2018. The textures and colors of the artwork are fantastic! I really enjoyed the variety in the illustrations as well. The story was a great balance of silly and heartfelt with a very heartwarming ending to match. <h style="color:#E7A526;">★</h>
 
+<h style="color:#E7A526;">***</h>
 
-***
-
-<br>
 Thank you,
 
 *Caleb*

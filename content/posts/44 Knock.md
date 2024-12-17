@@ -36,9 +36,8 @@ Published 2016. The art is well done and vintage feeling, it gives me very small
 
 Published 2008. There is incredible character and energy in the illustrations, incredible work. The text was rhythmic and poetic with a sense of Dr. Suess in the way it flowed, especially One Fish, Two Fish. There was great back and forth of information from the text versus information from the illustrations. This made every page a delight to dissect, with many funny moments. I felt the story needed an ever so slightly better ending. Something involving the owner that relates to a 'parents love' but the dogs return home after they antics, capture, and rest on the couch with not much said. With that said I'd still pick it up for its fun to read nature and the fantastic artwork. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

@@ -36,9 +36,8 @@ Published 2009. More fantastic artwork from Ron Barrett. The illustrations pack 
 
 Published 2008. Lovely and funny artwork. This book pushes the box with the expression 'Show Don't Tell'. The words tell the reader to NOT do something. The illustrations show us why. Sometimes it works, and sometimes it's questionable. But I love the respect of the viewer. It lets us decipher the why and dive deeper into the text of why not to do something. It is a very fun and silly book. <h style="color:#E7A526;">★</h>
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

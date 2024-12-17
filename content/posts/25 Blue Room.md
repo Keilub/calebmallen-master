@@ -36,9 +36,8 @@ Published 2020. Excellent illustrations and a variety of types are utilized in t
 
 Published 2010. I enjoyed the freeness of the pictures and some of the linework conflicts, but overall the artwork has charm. The story is a bit wordy and very long for a picture book, but I enjoyed all the new words and culture it shares with the reader.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

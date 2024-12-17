@@ -31,10 +31,8 @@ Published 1992. Vintage watercolor artwork vibe from this one. Love the visuals.
 
 Published 2020. The colors were to die for in this book, captivating pastel colors, and detailed and engaging artwork overall. The story left me a bit unsatisfied, the ending kind of just was all of a sudden there and over. They bake a cake, and everyone comes and then they need to make a bigger cake and then it is kind of just over. 
 
+<h style="color:#E7A526;">***</h>
 
-***
-
-<br>
 Thank you,
 
 *Caleb*

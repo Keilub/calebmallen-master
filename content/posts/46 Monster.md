@@ -31,9 +31,8 @@ Published 2008. I can appreciate the skill of the artwork, but it is not to my t
 
 Published 2015. At first, I was not totally in love with the art, but the expressions and variety in compositions really shined through as I was reading through. A style full of character and charm with funny moments that aren't directly in the text. The story and text were straightforward. The twist of the story is somewhat predictable, but I only say that after reading it.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

@@ -36,9 +36,8 @@ Published 2016. The cover instantly reminded me of The Story of the Little Mole 
 
 Published 2005. The artwork is fantastic, that old nostalgic style that is enjoyable and done with great skill. The story was very wordy, and the text could be edited down quite a bit, but this could be an excellent book to transition kids into chapter books, so what do I know? The overall message is very well told, and in the end, I was satisfied with how it ended, even if it was a bit predictable. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

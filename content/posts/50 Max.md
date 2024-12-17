@@ -31,11 +31,8 @@ Published 2015. Unique style, it reminds me of Pete the Cat. The story is one jo
 
 Published 2017. Interesteing choices for the artwork that worked for me, the color palette was weird and great and the drawins all captures a lovely texture and emotion throughout. The story beginning doesn't fully setup the premise well, and the rest of the book kind of suffers for it. I think it had the potential to be a book reminescent of 'The Kissing Hand' but it fails to setup it's story in the first act so the rest of the story is a bit flat. 
 
+<h style="color:#E7A526;">***</h>
 
-
-***
-
-<br>
 Thank you,
 
 *Caleb*

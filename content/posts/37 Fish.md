@@ -36,9 +36,8 @@ Published 2013. The artwork is speechlessly unique. I enjoy the organic and raw 
 
 Published 2019. A great book to read to those right before they begin their first day of school. It's a simple retelling of school activities for a new student. The art was dense with details, texture, and color. It was a little overwhelming at times. But the flow of the book is nice and leads the reader along the journey well. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

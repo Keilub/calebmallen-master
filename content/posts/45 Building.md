@@ -31,9 +31,8 @@ Published 2007. Again, the same great artwork holds true. The text wasn't as eas
 
 Published 2013. I liked the color choices and the artwork had a charm to it of abstract wash and organic linework. The book is somewhat text-heavy and long. I enjoyed the story, which is about building a house and its relation to community and family. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

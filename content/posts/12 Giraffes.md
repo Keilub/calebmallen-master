@@ -32,9 +32,8 @@ Published 2009, Cute illustrations also show some of the artist's mark-making. I
 
 Published 2007, Another story based on a true story, but has a feel of fiction that adds to the charm of this story. At points, it is ridiculous and unbelievable and a stretch of the truth, but the mindset of it being a true story makes it a fun dynamic to read about. I didn't enjoy how the story made the main character, at times, a vehicle of amusement for the rest of the townsfolk and that it was never addressed or any growth in that aspect, even if they were trying to be kind. The message is good that we need a community, and a community with a big heart can accomplish a lot.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

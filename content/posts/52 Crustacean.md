@@ -31,10 +31,8 @@ Published 2013. Instantly love the title. The artwork is good, simple, and clean
 
 Published 2016. LOVED the variation in the artwork, stunning sketches that then led into well-painted watercolor. The story was a fun telling of an imaginative tale. The text itself did a lovely job of having a rhythm to it that made the story very easy to read and flowed nicely.
 
+<h style="color:#E7A526;">***</h>
 
-***
-
-<br>
 Thank you,
 
 *Caleb*

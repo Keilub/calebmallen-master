@@ -36,9 +36,8 @@ Published 2004. An obvious sequel to the previous book, and not as fun this time
 
 Published 2016. The artwork is fine, but something about it differs from my taste. The story was a bit wordy and could be edited down to better flow. There is a message here, but the meaning and impact are lost by the end.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

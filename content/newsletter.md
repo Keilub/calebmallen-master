@@ -46,13 +46,9 @@ I’m a big fan of the books The Wander Society as well as The Art of Noticing a
 
 ##### The Weekly Picture
 
-*Tuesdays at 2pm:*
-
 It can be stressful to try and seek and actively research to find 'good' picture books, so why don't we leave it up to the alphabet and read through the entire picture book section in a library from A to Z? We will discover the magic and whimsy of books every week as I visit my local library and pick out five picture books to read and give my thoughts as we find out what makes a good picture book.
 
 ##### Paging thru Pictures
-
-*Alternating Thursdays at 2pm:*
 
 Paging Thru Pictures is a series dedicated to exploring the origins of the modern picture book and uncovering the timeline and influences that have led to the creation of the unique and imaginative picture books crafted today. Our journey will delve into the legacies of historical figures and their contributions, cultural impact, and the unique ways they told and/or tell their stories. Join us as we celebrate and honor these influential figures, from William Blake to Randolph Caldecott to Maurice Sendak and even contemporary picture book storytellers.
 

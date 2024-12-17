@@ -36,9 +36,8 @@ Published 2016. The artwork has excellent color and texture and is very impactfu
 
 Published 2014. More lovely artwork from Austin; I especially enjoyed the junk yard's textures and bits and bobs. Not a strong message in this book, but it is a sweet tale of cleaning up and working and then creating and playing.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

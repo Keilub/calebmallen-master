@@ -36,9 +36,8 @@ Published 2022. I had already read this book. I typically enjoy Mac Barnett's bo
 
 Published 2019. I enjoyed the subtleness of the illustration style in this book. The subdued vintage colors pair perfectly with the gritty grey/black washes and textures. The story weaves together for both adults and children. It takes us on a whimsical journey that starts with the child's constant questions. We end with a perfect line I won't spoil. A perfect bedtime tale. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

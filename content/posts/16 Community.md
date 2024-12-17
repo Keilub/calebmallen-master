@@ -36,9 +36,8 @@ Published 2021. Fantastic illustrations that pair well with the text. I loved th
 
 Published 2015. The style of illustrations wasn't for me, but it was varied, and the compositions were nice. The color was unique and gave a nostalgic feel that I did enjoy. The text was simple and easy to read, but I'm still determining how I feel about the story. It was creative, but it could've also been pushed further. A bit more conflict could've seen this story flourish, or making it end in an unpredictable place would help. It was still an enjoyable read, but I wanted a little more from it overall.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

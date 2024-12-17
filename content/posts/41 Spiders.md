@@ -36,9 +36,8 @@ Published 2014. More lovely bold blocked characters with a striking and vibrant 
 
 Published 2015. I'm still not a huge fan of the artwork but there is a unique style and charm to it. I like the text as a book to try and overcome fear by learning about it. The book also has elements of interactivity that I love. A book filled with information and fun. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

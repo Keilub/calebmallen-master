@@ -31,10 +31,8 @@ Published 2009. I love the artwork, especially the color choices as they jumped 
 
 Published 2021. A modern vintage style of artwork that is a blast to look at. Adored how the story perfectly captures that intense infatuation that can overcome a child when they are 'into' something. I remember being obsessed with many things and they were always changing. I would've loved if the ending would've played off that as it did in the earlier parts of the story and left us with our main character side eyeing something else. This book has lots of any aged reader to enjoy. 
 
+<h style="color:#E7A526;">***</h>
 
-***
-
-<br>
 Thank you,
 
 *Caleb*

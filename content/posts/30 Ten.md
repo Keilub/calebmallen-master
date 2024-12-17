@@ -36,9 +36,8 @@ Published 1983. It is a countdown book that is very sweet and tells the story of
 
 Published 2004. The artwork and photographs work well together, but I enjoyed some spreads more than others. The text is educational and focused on the water and energy cycles. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

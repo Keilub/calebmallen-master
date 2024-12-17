@@ -38,9 +38,8 @@ Published 2020. I don't get to mention this often, but the paper texture of this
 
 Published 2018. A very classic story that focuses on quiet and calm to engage with sleep, it worked for me as I let out a yawn or two. The artwork is really good. I especially loved the giraffe spread, resting their heads on clouds. The rest of the spreads are equally creative and visually addicting to look at. Pick this one up just for the art. <h style="color:#E7A526;">★</h>
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

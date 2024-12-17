@@ -36,9 +36,8 @@ Published 2014. The artwork has great charm and style, very interesting and fun 
 
 Published 2015. I enjoyed the art, and the story is simply a tale of a road trip to a new place; the Yeti pun is used a lot; I wish it would've been used more creatively.
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*

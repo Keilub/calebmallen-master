@@ -36,9 +36,8 @@ Published 2014. If in search of what a perfect picture book can look like, look 
 
 Published 2001. The artwork was nicely done. I enjoyed its rough nature with simple color washes and varied linework. The story was a bit dull to my taste. But, the theme was unique. This was the first book I've come across that revolved around a wedding. I wouldn't necessarily use Reluctant in the title, but more mischievous. It was a worthwhile read, but I doubt I'd return to the book. 
 
-***
+<h style="color:#E7A526;">***</h>
 
-<br>
 Thank you,
 
 *Caleb*
