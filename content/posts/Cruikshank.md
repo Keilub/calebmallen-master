@@ -2,7 +2,7 @@
 title: George Cruikshank | 02
 description: 1792 - 1878 | Grimm Tales
 date:   2023-09-07 13:00:00 +0300
-image: /images/paging02.jpg
+image: /images/PagingCover_george.jpg
 tags: [Paging thru Pictures]
 ---
 

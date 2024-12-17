@@ -2,7 +2,7 @@
 title:  Maurice Sendak - A Creative Journey Through the Wild Imaginations of Childhood
 description: Delving into Sendak's life and impact on children's literature.
 date:   2023-06-30 10:00:00 
-image: /images/sendak.jpg
+image: /images/PagingCover_sendak.jpg
 tags: [Paging thru Pictures]
 ---
 

@@ -2,7 +2,7 @@
 title: Hans Christian Andersen | 04
 description: 1805 - 1875 | Once Upon a Timeless Storyteller
 date:   2023-10-05 13:00:00 +0300
-image: /images/paging04.jpg
+image: /images/PagingCover_hans.jpg
 tags: [Paging thru Pictures]
 ---
 

@@ -2,7 +2,7 @@
 title: sir john tenniel | 07
 description:  1820 - 1914 | Drawing from Wonderland
 date:   2024-04-18 13:00:00 +0300
-image: /images/paging07.png
+image: /images/PagingCover_tenn.jpg
 tags: [Paging thru Pictures]
 ---
 

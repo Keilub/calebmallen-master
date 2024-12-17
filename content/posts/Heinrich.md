@@ -2,7 +2,7 @@
 title: Heinrich Hoffmann | 05
 description: 1809 - 1894 | Funny Stories & Droll Pictures
 date:   2023-10-19 13:00:00 +0300
-image: /images/paging05.jpg
+image: /images/PagingCover_hoff.jpg
 tags: [Paging thru Pictures]
 ---
 

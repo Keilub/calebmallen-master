@@ -141,14 +141,15 @@ img,
 .lightense-wrap,
 .gallery {
   &+em {
+    font-family: 'Heliotrope';
     display: block;
     margin-top: 20px;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 22px;
     font-style: normal;
     font-weight: normal;
-    text-align: center;
-    color: #FFFFFF;
+    text-align: left;
+    color: #262626;
   
     a {
       transition: $global-transition;

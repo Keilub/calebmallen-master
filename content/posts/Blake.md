@@ -2,7 +2,7 @@
 title: William Blake | 01
 description: 1757 - 1827 | Visionary to the Modern Picture Book
 date:   2023-08-24 13:00:00 +0300
-image: /images/paging01.jpg
+image: /images/PagingCover_blake.jpg
 tags: [Paging thru Pictures]
 ---
 

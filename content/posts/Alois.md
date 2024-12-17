@@ -2,7 +2,7 @@
 title: alois senefelder, george baxter & charles knight | 03
 description: Color Print & Publishing Innovations, The Early Industry of Print
 date:   2023-09-21 13:00:00 +0300
-image: /images/paging03.jpg
+image: /images/PagingCover_alois.jpg
 tags: [Paging thru Pictures]
 ---
 

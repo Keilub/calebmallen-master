@@ -2,7 +2,7 @@
 title: Edward Lear | 06
 description: 1812 - 1888 | Master of Nonsense
 date:   2023-11-02 13:00:00 +0300
-image: /images/paging06.jpg
+image: /images/PagingCover_lear.jpg
 tags: [Paging thru Pictures]
 ---
 
