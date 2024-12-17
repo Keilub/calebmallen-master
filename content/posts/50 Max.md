@@ -35,7 +35,7 @@ Published 2017. Interesteing choices for the artwork that worked for me, the col
 
 ***
 
-If you liked this post, I hope you'll consider becoming a free subscriber. That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
+<br>
+Thank you,
 
 *Caleb*
-

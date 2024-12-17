@@ -37,6 +37,7 @@ Published 2006. This one was a different format than the rest of the books we’
 
 ***
 
-If you liked this post, I hope you'll consider becoming a free subscriber. That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
+<br>
+Thank you,
 
 *Caleb*

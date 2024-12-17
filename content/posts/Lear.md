@@ -72,8 +72,6 @@ Although he proposed to the same woman twice, who was 46 years younger, his prop
 
 ***
 
-As always thank you so much for reading, be sure to Subscribe to receive these post directly in your Email Inbox and to join the discussion over on SubStack
-
 <br>
 Thank you,
 

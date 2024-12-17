@@ -38,6 +38,7 @@ Published 1995. I liked the simplicity of color and texture in the artwork. The 
 
 ***
 
-If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
+<br>
+Thank you,
 
 *Caleb*

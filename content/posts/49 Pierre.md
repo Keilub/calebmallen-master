@@ -34,6 +34,7 @@ Published 2020. The colors were to die for in this book, captivating pastel colo
 
 ***
 
-If you liked this post, I hope you'll consider becoming a free subscriber. That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
+<br>
+Thank you,
 
 *Caleb*

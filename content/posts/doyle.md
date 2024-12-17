@@ -103,8 +103,6 @@ More Articles to Read:
 
 ***
 
-As always thank you so much for reading, be sure to Subscribe to receive these post directly in your Email Inbox and to join the discussion over on SubStack
-
 <br>
 Thank you,
 

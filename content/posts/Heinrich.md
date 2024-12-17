@@ -58,8 +58,6 @@ In the early 19th century, attitudes changed as Struwwelpeter was criticized for
 
 ***
 
-As always thank you so much for reading, be sure to Subscribe to receive these post directly in your Email Inbox and to join the discussion over on SubStack
-
 <br>
 Thank you,
 

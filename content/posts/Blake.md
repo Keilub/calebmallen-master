@@ -151,8 +151,6 @@ These three poems are engaging and thought-provoking. The pair's images evoke a 
 
 ***
 
-I think that is enough on William Blake for today. As always thank you so much for reading, be sure to Subscribe to get these post directly in your Email Inbox and to join the discussion over on SubStack
-
 <br>
 Thank you,
 

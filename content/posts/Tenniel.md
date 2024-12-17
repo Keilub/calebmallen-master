@@ -86,8 +86,6 @@ Every time I’ve read Alice’s Adventures in Wonderland, I have found myself e
 
 ***
 
-As always thank you so much for reading, be sure to Subscribe to receive these post directly in your Email Inbox and to join the discussion over on SubStack
-
 Thank you,
 
 *Caleb*
