@@ -41,5 +41,3 @@ Published 1992. Same as most of Auch's books; not a particular fan, but they are
 If you liked this post, I hope you'll consider becoming a free subscriber and joining our crew (discussions via Substack are always a delight!). That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
 *Caleb*
-    
-<iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

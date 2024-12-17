@@ -56,8 +56,6 @@ It can be stressful to try and seek and actively research to find 'good' picture
 
 Paging Thru Pictures is a series dedicated to exploring the origins of the modern picture book and uncovering the timeline and influences that have led to the creation of the unique and imaginative picture books crafted today. Our journey will delve into the legacies of historical figures and their contributions, cultural impact, and the unique ways they told and/or tell their stories. Join us as we celebrate and honor these influential figures, from William Blake to Randolph Caldecott to Maurice Sendak and even contemporary picture book storytellers.
 
-<iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
 <br>
 Thank you,<br>
 <i> Caleb </i>

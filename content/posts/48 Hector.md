@@ -1,7 +1,7 @@
 ---
 title: emily and hector | 48
 description: A variety of books to stare at, or read.
-date:   2025-06-25 13:00:00 +0300
+date:   2024-06-25 13:00:00 +0300
 image: /images/wanderway48.jpg
 tags: [weekly picture]
 ---
@@ -38,5 +38,3 @@ Published 2007. Stunning color and painterly strokes, fantastic artwork. The sto
 If you liked this post, I hope you'll consider becoming a free subscriber. That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
 *Caleb*
-    
-<iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

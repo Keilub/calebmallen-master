@@ -50,7 +50,7 @@ I'm a storyteller and illustrator working in graphite, marker, oil pastel, and d
  <br>
 <h5>What I'm watching</h5>
 
-- The Bear
+- Survivor
 - The Good Place
 - Severence
 - Columbo<br>

@@ -36,5 +36,3 @@ Published 2013. I liked the color choices and the artwork had a charm to it of a
 If you liked this post, I hope you'll consider becoming a free subscriber. That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
 *Caleb*
-    
-<iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

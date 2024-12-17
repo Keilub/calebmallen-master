@@ -1,7 +1,7 @@
 ---
 title: a train to pierre | 49
 description: Plenty of unexpected styles.
-date:   2025-07-02 13:00:00 +0300
+date:   2024-07-02 13:00:00 +0300
 image: /images/wanderway49.jpg
 tags: [weekly picture]
 ---
@@ -37,5 +37,3 @@ Published 2020. The colors were to die for in this book, captivating pastel colo
 If you liked this post, I hope you'll consider becoming a free subscriber. That's it for this edition of The Weekly Picture, I hope you have a wonderful day and as always, thank you for reading!
 
 *Caleb*
-    
-<iframe src="https://thewanderway.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
