@@ -25,7 +25,7 @@ I choose to avoid social media platforms like X/Twitter, Instagram, and Meta due
 <br>
 <br>
 <h5>Privacy Policy</h5>
-I personally will never share any emails or comments provided via this website or use for any purpose that goes beyond the scope of this website as a writer and illustrator of picture books. 
+I personally will never share or store any emails and/or comments provided to me via this website or use emails/comments for any purpose that goes beyond the scope of this website as a writer and illustrator of picture books. 
 <br>
 <br>
 
