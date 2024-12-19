@@ -32,6 +32,13 @@ I'm a storyteller and illustrator working in graphite, marker, oil pastel, and d
 <br>
 — John Sandford
 
+<h5>What are Picture Books (to me)?</h5>
+The quote "Don't hope, cope" by Tomi Ungerer (one of my absolute favorite quotes) perfectly captures what I've learned from nearly a decade in childcare. Children don't always seek happy endings in their play, they aren’t interested in the nice and neat ending or the hopeful message. Instead, they are coping with the things going on in their lives and role-playing the darker elements of life as they continue to make sense of the world and cope with it. This is what makes children's storytelling powerful – it should address mature themes honestly, giving space for kids in grown up conversations and without condescension. These stories should continue to push the envelop of what a picture book is and what it is believed to be. Picture books shouldn't just recycle old narratives with fresh illustrations. They should break new ground and respect children's intelligence. Even bedtime stories should spark imagination. The rich tradition of picture books deserves to be both honored and challenged as the art form continues to be pushed and evolves.
+<br>
+<br>
+The process itself of creating picture books through writing and illustration is my sanctuary. It centers me, offering a meditative space where I can explore my thoughts and emotions. Through this work, I find my clearest form of self-expression.
+<br>
+<br>
 <br>
 <h5>What I'm reading</h5>
 
